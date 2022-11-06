@@ -1,0 +1,4 @@
+.env
+.idea
+./config/config.ini
+./main.out
